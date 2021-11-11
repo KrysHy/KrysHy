@@ -10,6 +10,3 @@ while answer != num1+num2:
 print(answer)
 ######
 print("well done!!")
-
-
-#test
